@@ -1,0 +1,7 @@
+{
+  "name": "Mailboxer Sample App",
+  "description": "A simple Rails 4.1 application to try the `mailboxer` gem.",
+  "repository": "https://github.com/heroku/button-sample",
+  "logo": "https://github.com/csbrooks6/mailboxer-app",
+  "keywords": ["rails", "mailboxer", "messaging"]
+}
